@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Account Checker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- general -->
+    <string name="content_authority">com.hozakan.accountChecker</string>
+
+    <!-- home screen -->
+    <string name="action_add_account">Add account</string>
+
+    <!-- account screen -->
+    <string name="action_refresh_pwnds">Refresh</string>
+
+</resources>
