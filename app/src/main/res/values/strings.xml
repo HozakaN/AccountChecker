@@ -5,12 +5,18 @@
     <string name="action_settings">Settings</string>
 
     <!-- general -->
+    <string name="sync_account_type">accountchecker.hozakan.com</string>
     <string name="content_authority">com.hozakan.accountChecker</string>
 
-    <!-- home screen -->
+    <!-- generic words/sentences -->
+    <string name="create">Create</string>
+    <string name="account_name_unavailable">Account already registered</string>
+
+    <!-- list accounts screen -->
     <string name="action_add_account">Add account</string>
+    <string name="account_name_text">Account name</string>
 
     <!-- account screen -->
-    <string name="action_refresh_pwnds">Refresh</string>
+    <string name="action_refresh_breaches">Refresh</string>
 
 </resources>

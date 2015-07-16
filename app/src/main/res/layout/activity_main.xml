@@ -12,7 +12,7 @@
         android:id="@+id/fragment_accounts"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="com.hozakan.emailchecker.ui.fragment.ListAccountsFragment"
+        android:name="com.hozakan.accountchecker.ui.fragment.ListAccountsFragment"
         tools:layout="@android:layout/list_content" />
 
 </RelativeLayout>
